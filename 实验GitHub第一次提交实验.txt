@@ -2,6 +2,7 @@
 2、the second project test for confilict
 3、水果蛋糕官方吐槽
 4、我改了四操作，刚刚那个是别人修改的，现在chen_dev分支上在本地进行了修改，要上传到远程master上
-5、chen_dev做了第五次修改3
+5、chen_dev做了第五次修改3，现在做第六次修改实验
+6、第SIX修改实验；这是在本地改的，也就是在本地分支chen_dev上改的代码。
 
 
